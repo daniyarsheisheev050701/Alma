@@ -1,0 +1,94 @@
+.header {
+    height: 100vh;
+    background-image: url("../../img/background.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  
+  .nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: #fff;
+  }
+  
+  
+  .nav-2 {
+    display: flex;
+    gap: 5rem;
+    padding-left: 30rem;
+    list-style: none;
+    cursor: pointer;
+  }
+  .btn  {
+    background: #0C4A34;
+  border: 2px solid #0C4A34;
+  box-sizing: border-box;
+  cursor: pointer;
+  border-radius: 4px;
+  padding: 10px 15px;
+  color: #fff;
+  }
+  .btn-2 {
+    background: rgba(255, 255, 255, 0.363);
+  border-radius: 4px;
+  cursor: pointer;
+  padding: 10px 25px;
+  }
+  .btn-3 {
+    background-color: #0C4A34;
+    border: 2px solid #0C4A34;
+    box-sizing: border-box;
+    border-radius: 4px;
+    padding: 15px 25px;
+    cursor: pointer;
+    color: #fff;
+  
+  }
+  
+  .text {
+    text-align: center;
+    font-size: 30px;
+    padding-left: 30rem;
+    padding-right: 30rem;
+    color: #fff;
+    margin-top: 15rem;
+  }
+  
+  
+  
+  .box {
+    width: 400px;
+    position: absolute;
+    bottom: 5rem;
+    right: 2rem;
+    background-color: #497557;
+    border-radius: 5px;
+    padding: 20px 20px;
+    color: #fff;
+  }
+  
+  
+  .btn-4 {
+    padding: 25px 20px;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 4px;
+    cursor: pointer;
+    color: #fff;
+  }
+  
+
+
+.text-icon {
+    padding-top: 5rem;
+    display: flex;
+    justify-content: center;
+    margin-top: 10rem;
+    color: #fff;
+    align-items: center;
+  }
+  
+  .text-icon i {
+    margin-left: 1rem;
+  }
+  
