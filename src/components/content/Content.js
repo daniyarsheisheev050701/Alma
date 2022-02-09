@@ -42,13 +42,7 @@ function content() {
             <h3>In-person or online care</h3>
         </div>
         <img className="profil" src={profil} />
-        <div className='text-5'>
-          <h1>A network of  </h1>
-        <h1>providers committed</h1>
-        <h1>toquality care</h1>
-          </div>
-      </section>
-      <section>
+      
           
       </section>
   </section>

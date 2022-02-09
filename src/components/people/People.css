@@ -1,0 +1,21 @@
+.peoples{
+    position: relative;
+    width: 100%;
+    text-align: center;
+}
+.people img{
+    padding: 0 17px;
+}
+.people-2 img{
+    padding: 0 17px;
+}
+.people img:nth-child(4){
+    position: relative;
+    left: 0;
+    right: 14rem;
+    top: 8.2rem;
+}
+
+.people-2 img:nth-child(9) {
+    
+}

@@ -1,0 +1,42 @@
+.text-1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 35rem;
+    column-gap: -7rem;
+}
+
+.text-2  {
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+.btn-0 {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.btn-5 {
+    padding: 1rem 2rem;
+    color: #fff;
+    background-color: #0C4A34;
+    font-style: normal;
+    font-weight: normal;
+    border-radius: 6px;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.btn-6 {
+    padding: 1rem 2rem;
+    color: #000;
+    border-radius: 6px;
+    background-color: #E5E5E5;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+}
