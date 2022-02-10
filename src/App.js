@@ -5,7 +5,6 @@ import Text from './components/text/Text';
 import People from './components/people/People';
 
 
-
 function App() {
   return (
     <div>

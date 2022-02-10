@@ -1,7 +1,7 @@
 .header {
     height: 100vh;
     background-image: url("../../img/background.png");
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
   }
   
@@ -13,7 +13,7 @@
   }
   
   
-  .nav-2 {
+  .navi {
     display: flex;
     gap: 5rem;
     padding-left: 30rem;
@@ -29,13 +29,13 @@
   padding: 10px 15px;
   color: #fff;
   }
-  .btn-2 {
+  .btn_2 {
     background: rgba(255, 255, 255, 0.363);
   border-radius: 4px;
   cursor: pointer;
   padding: 10px 25px;
   }
-  .btn-3 {
+  .btn_3 {
     background-color: #0C4A34;
     border: 2px solid #0C4A34;
     box-sizing: border-box;
@@ -69,7 +69,7 @@
   }
   
   
-  .btn-4 {
+  .btn_4 {
     padding: 25px 20px;
     background: rgba(255, 255, 255, 0.2);
     border-radius: 4px;
@@ -79,7 +79,7 @@
   
 
 
-.text-icon {
+.text_icon {
     padding-top: 5rem;
     display: flex;
     justify-content: center;

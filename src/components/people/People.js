@@ -29,7 +29,7 @@ function People() {
           <img src={img9}/>
           <img src={img10}/>
           </div>
-          <div className='text'>
+          <div className='text-9'>
             <h3>With Alma, the experience of finding a therapist was night and day different. I felt comfortable, heard, and empowered to choose the right provider for me.</h3>
             <p>Erick chose Alma for the one-to-one, human approach. Read more stories here.</p>
             <img src={vector} />

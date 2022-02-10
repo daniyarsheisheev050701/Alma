@@ -17,16 +17,20 @@
 }
 
 
-.text {
-    padding: 4rem;
-    background: #F8F4EF;
-    border-radius: 0px;
-    color: #000;
-    padding-left: 30rem;
-    padding-right: 30rem;
+.text-9 {
+     background: #F8F4EF; 
+     border-radius: 0px;
+     font-size: 30px;
+     color: #000;
+     padding-left: 30rem;
+     padding-right: 30rem;
 }
 
-.text img {
+.text-9 h3 {
+    padding-top: 3rem;
+}
+
+.text-9 img {
     position: relative;
-    right: 0;
+    left: 45rem;
 }

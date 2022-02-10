@@ -1,35 +1,35 @@
 import React from 'react';
-import './Header.css'
+import s from "../../components/header/Header.module.css"
 const Header = () => {
   return ( 
-    <section className='header'>
-    <nav className="nav">
+    <section className={s.header}>
+    <nav className={s.nav}>
       <h1>Alma</h1>
-        <ul className='nav-2'>
+        <ul className={s.navi}>
           <li>Get Started</li>
           <li>How It Works  </li>
           <li>For Providers</li>
           <li>About Alma</li>
         </ul>
-        <button className="btn-2">Login</button>
-        <button className="btn">Find a provider</button>
+        <button className={s.btn_2}>Login</button>
+        <button className={s.btn}>Find a provider</button>
     </nav>
-    <div className="text">
+    <div className={s.text}>
       <h1>Alma makes it easy
           quality, affordable mental
           to find high
           health care.</h1>
-          <button className='btn-3'>Browse our directory</button>
+          <button className={s.btn_3}>Browse our directory</button>
     </div>
-    <div className="box">
+    <div className={s.box}>
       <h5>Subscribe to The Digest</h5>
       <p>Get the latest mental health news in your inbox every other Thursday.</p>
-       <button className="btn-4">Sign Up</button>
+       <button className={s.btn_4}>Sign Up</button>
     </div>
-    <div className="text-icon">
+    <div className={s.text_icon}>
       <h3>Want help? Talk to our</h3>
       <h3>Client Matching team</h3>
-      <i class="fal fa-arrow-right"></i>
+      <i className="fal fa-arrow-right"></i>
     </div>
     </section>
   )
