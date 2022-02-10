@@ -10,6 +10,7 @@ import img7 from "../../img/Rectangle8.png"
 import img8 from "../../img/Rectangle9.png"
 import img9 from "../../img/Rectangle10.png"
 import img10 from "../../img/Rectangle11.png"
+import vector from "../../img/Vector (1).png"
 
 function People() {
   return (
@@ -27,6 +28,11 @@ function People() {
           <img src={img8}/>
           <img src={img9}/>
           <img src={img10}/>
+          </div>
+          <div className='text'>
+            <h3>With Alma, the experience of finding a therapist was night and day different. I felt comfortable, heard, and empowered to choose the right provider for me.</h3>
+            <p>Erick chose Alma for the one-to-one, human approach. Read more stories here.</p>
+            <img src={vector} />
           </div>
       </div>
   )

@@ -3,6 +3,7 @@
     justify-content: space-around;
     padding-right: 2rem;
     color: #5B5855;;  
+    align-items: center;
     
   }
   
@@ -23,27 +24,42 @@
   
   .Alma {
     position: absolute;
-    padding: 1rem  1rem;
+    padding: 1.3rem  3rem 5rem ;
     background: #DCE3DD;
     border-radius: 4px;
   }
-  
+  .Alma h5 {
+    font-size: 20px;
+  }
+  .Alma p {
+    position: absolute;
+    left: 1rem;
+    
+  }
+  .Alma i {
+    padding-right: 1rem;
+  }
   .icons {
     position: absolute;
-    padding: 0 1rem;
-    margin: 11rem 0;
+    padding: 0 4rem;
+    margin: 13rem 0;
     background: #F9F9F7;
-  border-radius: 4px
+    border-radius: 4px
   }
-  
+  .icons i {
+    padding-right: 1rem;
+  }
   .icons-2 {
     position: absolute;
-    margin: 16rem 0;
-    padding: 0 1rem;
+    margin: 18rem 0;
+    padding: 0 4rem;
     background: #F9F9F7;
-  border-radius: 4px
+    border-radius: 4px
   }
 
+  .icons-2 i{
+    padding-right: 1rem;
+  }
   .profil {
      position: absolute;
      right: 0px;

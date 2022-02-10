@@ -27,19 +27,17 @@ function content() {
           <h1>Simple, supportive search process</h1>
         </div>
         <div className="Alma">
-        <i className="fas fa-list-alt"></i>
           <h5>
+          <i className="fas fa-list-alt"></i>
           Easy-to-use directory
           </h5>
           <p>An easy-to-use online directory that lets you search and filter on what matters most</p>
         </div>
         <div className='icons'>
-            <i className="fal fa-infinity"></i>
-            <h3>Free matching support</h3>
+            <h3 > <i className="fal fa-infinity"></i>Free matching support</h3>
         </div>
         <div className='icons-2'>
-        <i className="fal fa-comment-alt-lines"></i>
-            <h3>In-person or online care</h3>
+            <h3><i className="fal fa-comment-alt-lines"></i>In-person or online care</h3>
         </div>
         <img className="profil" src={profil} />
       

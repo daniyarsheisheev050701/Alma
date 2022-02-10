@@ -16,6 +16,17 @@
     top: 8.2rem;
 }
 
-.people-2 img:nth-child(9) {
-    
+
+.text {
+    padding: 4rem;
+    background: #F8F4EF;
+    border-radius: 0px;
+    color: #000;
+    padding-left: 30rem;
+    padding-right: 30rem;
+}
+
+.text img {
+    position: relative;
+    right: 0;
 }
